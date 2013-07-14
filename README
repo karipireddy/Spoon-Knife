@@ -6,6 +6,10 @@ successfully merged into local file, now committing from local into the origin
 
 commiting this in dev1 branch
 
+<<<<<<< HEAD
 merged this back on local master
 
 committing back to origin master
+=======
+local change done
+>>>>>>> dev1
